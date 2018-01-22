@@ -6,4 +6,8 @@ package com.example.udi.c09_exceptions01;
 
 public class Test {
     int a;
+
+    public Test(int a) {
+        this.a = a;
+    }
 }
